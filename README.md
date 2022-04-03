@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/bqSkJ4IwNcoZG" width="480" height="246" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kawaii-smile-bqSkJ4IwNcoZG">via GIPHY</a></p>
+<img src="./assets/img/blue.gif" width="480" height="246" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/kawaii-smile-bqSkJ4IwNcoZG">via GIPHY</a></p>
 <h1>Hello 😏 I am Cristina, web developer.</h1>
 
 <h2>Stop looking, you have reached the right page.</h2>
